@@ -1,0 +1,23 @@
+.robotAdmin {
+  /* border: solid black; */
+  margin: 1em;
+  display: flex;
+}
+.hiddenScreen{
+    text-align:center;
+    font-size:42px;
+    color:blue;
+}
+.robot{
+    width:50%;
+}
+.greeting{
+    font-size:32px;
+    font-family:courier;
+}
+.btnContainer{
+    display:none;
+}
+.show{
+    display:block;
+}
